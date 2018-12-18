@@ -1,12 +1,12 @@
 {
-  "name": "v-scroll-load",
+  "name": "v-scroll-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "vue.js scroll load plugin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Vue.js", "scroll", "load", "plugin"],
+  "author": "yuyongyu",
   "license": "ISC"
 }
